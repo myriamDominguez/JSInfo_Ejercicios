@@ -21,7 +21,6 @@ let greaterOrMinor2 = 10 < 9;
 alert(greaterOrMinor);
 alert(greaterOrMinor2);
 
-
 // Null data
 
 let brain = null;
